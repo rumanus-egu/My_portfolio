@@ -1,12 +1,12 @@
 title: Romanus T. Egute  # your name (or website title) here
-logo: "/images/log.jpg?raw=true" # your photo (or logo) here
+logo: "/images/Logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   Python Connoisseur
   <br><br>
   Data Scientist
   <br><br>
-  <a href="https://www.linkedin.com/in/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/donclericuzio/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
