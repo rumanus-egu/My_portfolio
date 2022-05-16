@@ -1,4 +1,4 @@
-Website Address: [Live Example](https://github.com/rumanus-egu/My_portfolio/)
+Website Address: [Live Example](https://rumanus-egu.github.io/My_portfolio/)
 
 - Data Science students' Portfolio Template
 
