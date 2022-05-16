@@ -57,26 +57,23 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying given picture is a Cat or a Dog](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb)
+[Employee-Compensation](https://github.com/rumanus-egu/K_Means-Project/blob/main/K_Means_Project_2.ipynb)
 
-<img src="images/Dog-and-Cat.jpeg?raw=true"/>
+<img src="images/EC.jpg?raw=true"/>
 
-**Skills used:** Python, Keras, Tensorflow
+**Skills used:** Python, Pandas, Matplotlib, Clustering, Elbow
 
-**Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
+**Project Objective:** The San Francisco Controller's Office maintains a database of the salary and benefits, paid to City employees since fiscal year 2013.This data is summarized and presented on the Employee-Compensation.
 
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**80%** using **23** epochs](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb).
-
-- Added multiple convolution and pooling layers
-- Training model on basis of given data
-- Fitting the CNN to see if the provided image is dog or cat
-- Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
+- Used K-Means algorythm to create cluster depending on the dataset.
+- Used Elbow method to get the optimal number of cluster.
+- Explored a Unsupervised Learning approach to create data group.
 
 ***
 
 [Hand Written Digit Recognisation](https://github.com/rumanus-egu/DNN_Project/blob/main/step5_1_hand_writting_recognition_project.ipynb)
 
-<img src="images/HD.jpeg?raw=true"/>
+<img src="images/HD.jpg?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow
 
