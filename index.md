@@ -4,7 +4,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/rumanus-egu/Linear-Regression-Project/blob/main/Linear_Regression_Project.ipynb)
+[Bike Rental Prediction](https://github.com/rumanus-egu/Bike-Rental-Prediction)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
@@ -22,18 +22,18 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/rumanus-egu/Knn_Nb_Project/blob/main/Knn_Nb_Project.ipynb)
+[Prediction of orthopaedic patients in normal and abnormal](https://github.com/rumanus-egu/Prediction-of-orthopaedic-patients-in-normal-and-abnormal-)
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
-**Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives. 
+**Project Objective:** Identification wheather an orthopaedic patient is normal or abnormal for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives. 
 
 **Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/rumanus-egu/Knn_Nb_Project/blob/main/Knn_Nb_Project.ipynb).
 
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
+- Used logistic regression to identify an orthopaedic patient is normal or abnormalbased on various attributes
+- Classified normal or abnormal by studying patterns in measured attributes of those orthopaedic data
 - Used Logistic regression classifier & optimized the accuracy by using the ROC curve
 - Explored a machine learning approach to medical diagnosis
 
