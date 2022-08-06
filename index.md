@@ -22,7 +22,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Prediction of orthopaedic patients in normal and abnormal](https://github.com/rumanus-egu/Prediction-of-orthopaedic-patients-in-normal-and-abnormal-)
+[Prediction of orthopaedic patients is normal and abnormal](https://github.com/rumanus-egu/Prediction-of-orthopaedic-patients-in-normal-and-abnormal-)
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
 
@@ -40,24 +40,25 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ***
 ***
 
-[Bank data](https://github.com/rumanus-egu/Logistic-Regression-Project/blob/main/6_Logistic_Regression_Project.ipynb)
+[Portuguese Banking Institution](https://github.com/rumanus-egu/Portuguese-Banking-Institution)
 
 <img src="images/bank image.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
-**Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives. 
+**Project Objective:** In this project, I worked with real-world data which is related to direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe to a term deposit.
+ 
 
-**Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/rumanus-egu/Logistic-Regression-Project/blob/main/6_Logistic_Regression_Project.ipynb).
+**Quantifiable result:** We could Classify if a customer will buy the term deposit or not with [**80%** accuracy using Logistic regression algorithm](https://github.com/rumanus-egu/Logistic-Regression-Project/blob/main/6_Logistic_Regression_Project.ipynb).
 
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
+- Used logistic regression to identify if customer will buy the term deposit or not based on various attributes
+- Classified the result by studying patterns in measured attributes of customer's response
 - Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
+- Explored a machine learning approach to bank data analysis
 
 ***
 
-[Employee-Compensation](https://github.com/rumanus-egu/K_Means-Project/blob/main/K_Means_Project_2.ipynb)
+[Employee-Compensation](https://github.com/rumanus-egu/Employee-Compensation)
 
 <img src="images/EC.jpg?raw=true"/>
 
@@ -71,13 +72,14 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Hand Written Digit Recognisation](https://github.com/rumanus-egu/DNN_Project/blob/main/step5_1_hand_writting_recognition_project.ipynb)
+[Hand Writing Recognisation](https://github.com/rumanus-egu/Handwriting-Recognition)
 
 <img src="images/HD.jpg?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow
 
-**Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
+**Project Objective:**  Mnist is a dataset with 70,000 handwritten digits. Here I have predicted the Mnist digits by using Convolution Neural Network.
+
 
 **Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**98%** using **10** epochs]https://github.com/rumanus-egu/DNN_Project/blob/main/step5_1_hand_writting_recognition_project.ipynb).
 
